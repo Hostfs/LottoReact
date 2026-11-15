@@ -39,5 +39,8 @@
     "customize-cra": "^1.0.0",
     "react-app-rewired": "^2.2.1",
     "uglifyjs-webpack-plugin": "^1.1.2"
+  },
+  "overrides": {
+    "node-forge": "^1.4.3"
   }
 }
